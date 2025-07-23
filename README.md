@@ -1,1 +1,1 @@
-"#myfirstrepo" 
+-e "# myfirstrepo\n\n## My Subjects\n- Mathematical Programming\n- CI/CD & Cloud DevOps\n- Foundations of Cloud Native\n- Data Analytics & Visualization\n- Nature Inspired Soft Computing" 
